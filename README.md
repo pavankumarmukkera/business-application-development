@@ -301,3 +301,16 @@ Your Cambroos website is ready to receive quotation requests with automated prof
 **Live Site:** Check your Vercel dashboard for the URL
 
 **Questions?** See the documentation files in this repository.
+
+---
+
+## Microsoft Power Platform Integration Ideas
+
+**Proposed enhancement:** Business operations application using Power Apps and SharePoint
+
+This repository also contains Power Platform learning
+examples and design documentation. These additions are
+concepts, not completed or deployed integrations.
+
+See [Power Platform Documentation](power-platform/README.md).
+
